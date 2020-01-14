@@ -10,3 +10,6 @@ git config user.name "Rajon2020"
 git config user.email "rajonrajfl@gmail.com"
 git commit -m "my first commit"
 git push origin master(brance name)
+
+
+second day practice session 
